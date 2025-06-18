@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+    <translationContributors>ilia235_1</translationContributors>
+    <texts>
+        <text name="input_POWERTOOLSMENU" text="Відкрити меню Power Tools" />
+        <text name="input_POWERTOOLSMENU_ALTERNATIVE" text="Відкрити меню Power Tools з очищенням пам'яті" />
+        <text name="input_POWERTOOLS_QUICKSAVE" text="Швидке збереження" />
+        <text name="flightMode" text="Режим польоту" />
+        <text name="enabled" text="Увімкнено" />
+        <text name="disabled" text="Вимкнено" />
+        <text name="flightModeUsage" text="Клавіша J – перемикання польоту, клавіші Q та E змінюють висоту." />
+        <text name="changeMoneyMode" text="Додати/видалити гроші" />
+        <text name="exitMode" text="Вийти у меню гри" />
+        <text name="chooseAction" text="Вибрати дію" />
+        <text name="powerTools" text="Power Tools" />
+        <text name="changeMoneyUsage" text="Приклади: \\n'1000' додасть 1000 € на ваш банківський рахунок \\n'-1000' зменшить на 1000 €\\n'=1000' зробить ваш рахунок рівним 1000 €" />
+        <text name="errorNotNumeric" text="Неприпустиме числове значення: " />
+        <text name="buttonOk" text="Ok" />
+        <text name="buttonCancel" text="Скасувати" />
+        <text name="noHudMode" text="HUD Увімк/Вимк" />
+        <text name="superStrengthMode" text="Переключити суперсилу" />
+        <text name="superStrength" text="Суперсила" />
+        <text name="filltypeNone" text="Ні (порожньо)" />
+        <text name="chooseFillUnit" text="Виберіть техніку для заповнення (відсік заповнення)" />
+        <text name="chooseFillUnitDetailed" text="Яку частину ви бажаєте заповнити?" />
+        <text name="fillVehicle" text="Заповнити техніку" />
+        <text name="selectFillType" text="Оберіть тип заповнення (або 'Ні (пусто)', щоб очистити)" />
+        <text name="errorNoValidFilltypes" text="Немає відповідних типів заповнення для цього транспорту/агрегату" />
+        <text name="errorNoValidFillUnits" text="Немає відповідного транспорту/агрегату" />
+        <text name="tipOnGround" text="Створити купу" />
+        <text name="confirmExit" text="Ви ДІЙСНО хочете вийти?" />
+        <text name="exitRestartWarning" text="ОБЕРЕЖНО! Вихід без збереження призведе до втрати вашого прогресу!" />
+        <text name="saveGame" text="Зберегти гру" />
+        <text name="spawnObjectsActionTitle" text="Створити об'єкти/продукцію" />
+        <text name="spawnObjectsActionText" text="Оберіть, що створити" />
+        <text name="actionClearTipArea" text="Очистити область" />
+        <text name="input_POWERTOOLS_REPEAT_ACTION" text="Повторити останню дію" />
+        <text name="restartMode" text="Перезапустити збереження" />
+        <text name="forcedRestartMode" text="Перезапустити збереження. з очищенням пам'яті" />
+        <text name="forcedExitMode" text="Вийти в меню гри з очищенням пам'яті" />
+        <text name="flightActivated" text="Режим польоту активовано" />
+        <text name="flightActivatedExtra" text="Використовуйте клавіші Q та E для зміни висоти" />
+        <text name="flightDeactivated" text="Режим польоту більше не активний" />
+        <text name="flightDeactivatedExtra" text="Слідкуйте за тим, де ви приземлитесь!" />
+        <text name="superSpeed" text="Супершвидкість" />
+        <text name="superSpeedMode" text="Перемикання Супершвидкості" />
+		<text name="advancedMode" text="Розширений"/>
+		<text name="showFieldMenu" text="Параметри поля"/>
+		<text name="fieldMenuTitle" text="Польові інструменти"/>
+		<text name="actionSetFieldCrop" text="Зміна польової культури"/>
+		<text name="actionSetFieldGround" text="Зміна ґрунту поля"/>
+		<text name="showUIScaleMenu" text="Змінити масштаб інтерфейсу користувача"/>
+		<text name="uiScaleMenuTitle" text="Масштаб інтерфейсу користувача"/>
+		<text name="uiScaleMenuInfo" text="Виберіть новий тимчасовий масштаб інтерфейсу користувача (примітка: щоб остаточно змінити масштаб, потрібно змінити це в налаштуваннях гри):"/>
+		<text name="notAllowed_serverAdminsOnly" text="Не дозволено! Ця функція доступна лише адміністраторам сервера."/>
+    </texts>
+</l10n>
